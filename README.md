@@ -1,1 +1,1 @@
-# msicroservice-study-config
+# miscroservice-study-config

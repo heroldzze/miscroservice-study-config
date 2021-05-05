@@ -1,1 +1,0 @@
-# miscroservice-study-config
